@@ -1,6 +1,6 @@
 # EcoSnake
 
-Welcome to **EcoSnake** — an educational Snake game designed to promote environmental awareness while engaging players in classic Snake gameplay. Developed as part of the project “Gender, Digitalization, Green: Ensuring a Sustainable Future for all in Europe” (Ref. 2023-1-RO01-KA220-HED-000154433), EcoSnake combines fun with learning through eco-themed questions that test and enhance the player’s knowledge of sustainability.
+Welcome to **EcoSnake** — an educational Snake game designed to promote environmental awareness while engaging players in classic Snake gameplay. Developed as homework and part of the project “Gender, Digitalization, Green: Ensuring a Sustainable Future for all in Europe” (Ref. 2023-1-RO01-KA220-HED-000154433), EcoSnake combines fun with learning through eco-themed questions that test and enhance the player’s knowledge of sustainability.
 
 ## Table of Contents
 - [Overview](#overview)
