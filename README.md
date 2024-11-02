@@ -9,7 +9,6 @@ Welcome to **EcoSnake** — an educational Snake game designed to promote enviro
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
